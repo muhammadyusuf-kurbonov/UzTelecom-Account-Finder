@@ -1,0 +1,5 @@
+@import "bootstrap/scss/bootstrap";
+
+div#typeahead_id_wrapper.simple-typeahead {
+    @extend .w-100
+}
